@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Jason, a software developer.
 <!--
 **JazzAnt/JazzAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
