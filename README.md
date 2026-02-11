@@ -1,7 +1,5 @@
 ## Hi there 👋
-I'm Jason, a software developer.
-I'm currently working on an expense tracker mobile app that has a text reader to parse receipts. 
-I also have plans to update my pixiv series downloader but that's after my expense app version 1.0 is done.
+I'm Jason, a software developer. Nice to meet you!
 <!--
 **JazzAnt/JazzAnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
